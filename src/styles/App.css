@@ -13,6 +13,18 @@
   font-family: Permanent Marker;
 }
 
+.text-adjust {
+  font-family: Poiret One;
+}
+
+.text-add {
+  font-family: Special Elite;
+}
+
+.select-book {
+  font-family: Share Tech Mono;
+}
+
 .App-title {
   font-size: 1.5em;
 }
@@ -22,3 +34,9 @@
 }
 
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+
+
+

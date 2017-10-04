@@ -20,7 +20,7 @@ class BookList extends Component {
       )
     })
       return(
-        <ul className="list-group col-sm-4">
+        <ul className="list-group col-sm-4 text-adjust">
           {newBookState}
         </ul>        
       )
