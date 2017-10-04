@@ -24,6 +24,8 @@ class BookList extends Component {
           {newBookState}
         </ul>        
       )
+    }}
+  
   
 
 function mapStateToProps(state) {
