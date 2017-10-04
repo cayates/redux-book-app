@@ -17,7 +17,8 @@ class BookDetail extends Component {
       <div className="col-md-4 text-add">
         <h3> Details for: </h3>
         <h4 className="title">{this.props.book.title}</h4>
-        <div>{this.props.book.pages} pages</div>
+        <hr />
+        <div>Length: {this.props.book.pages} pages</div>
         <div>Author: {this.props.book.author}</div>
         <div>Price: ${this.props.book.price} USD</div>
         <div>Published: {this.props.book.published_date} by {this.props.book.publisher}</div>

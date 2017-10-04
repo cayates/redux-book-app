@@ -19,6 +19,11 @@
 
 .text-add {
   font-family: Special Elite;
+  border-style: ridge;
+}
+
+h3 {
+  margin-top: 10px;
 }
 
 .select-book {
